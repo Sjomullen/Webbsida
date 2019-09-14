@@ -1,0 +1,81 @@
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .topnav a:hover{
+      background-color: #ddd;
+      color: black;
+  }
+
+  .topnav a:hover{
+    background-color: #4CAF50;
+    color: white;
+}
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+caption{
+    font-size: 55px;
+}
+
+tr:nth-child(1){
+    background-color: Grey;
+}
+
+tr:nth-child(2){
+    background-color: Orange;
+}
+
+tr:nth-child(3){
+    background: Red;
+}    
+
+tr:nth-child(4){
+    background-color: Orange;
+}
+
+tr:nth-child(5){
+    background-color: Red;
+}
+td:nth-child(4){
+    text-align: right;
+}
+
+td:nth-child(2){
+    text-align: center;
+}
+
+td:nth-child(3){
+    text-align: center;
+}
+
+th:nth-child(1){
+    text-align: left;
+}
+
+th:nth-child(2){
+    text-align: center;
+}
+
+th:nth-child(3){
+    text-align: center;
+}
+
+th:nth-child(4){
+    text-align: right;
+}
+.steam{
+    width: 20%;
+}
+
